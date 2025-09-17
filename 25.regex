@@ -2,7 +2,7 @@ In SQL, "regex" stands for "regular expression," which is a sequence of characte
 matching complex patterns within strings, rather than just exact matches; essentially providing a powerful tool for searching, extracting, and validating data based on specific character patterns 
 within your SQL queries. 
 
-Eample 
+Example 
 
 DROP TABLE IF EXISTS regex_samples;
 
